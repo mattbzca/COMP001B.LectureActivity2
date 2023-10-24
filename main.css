@@ -1,0 +1,15 @@
+h1 {
+    background-color: greenyellow;
+    padding: 50px 20px 50px 40%;
+    margin: 10px;
+}
+p {
+    background-color: lightgray;
+    border: 2px solid lightsalmon;
+}
+.absvalue {
+    width: 400px;
+}
+.center {
+    margin: 0 0 0 700px;
+}
